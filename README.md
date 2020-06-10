@@ -1,4 +1,4 @@
-# y_algorithms
+# yesenin Algs
 Some algorithm implementations and problem solutions
 
 ## Strings
