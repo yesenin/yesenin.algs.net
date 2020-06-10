@@ -1,2 +1,5 @@
 # y_algorithms
-Some algorithm implementation and task solutions
+Some algorithm implementations and problem solutions
+
+## Strings
+- Merge two lines
